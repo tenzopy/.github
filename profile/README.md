@@ -9,7 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/tenzopy)
 ![GitHub Org's stars](https://img.shields.io/github/stars/tenzopy)
 
-  <p>We build Web Apps And Mobile Apps to Clients! Contact Us at <a href="mailto:tenzopy@proton.me">tenzopy@proton.me</a></p>
+  <p>We build Web Apps And Mobile Apps to Clients! Contact Us at <a href="mailto:hello@tenzopy.com">hello@tenzopy.com</a></p>
 </div>
 
 ## About Us 💪

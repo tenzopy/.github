@@ -1,18 +1,25 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/tenzopy/.github/main/assets/logo/tenzopy_logo.png" width="40" /> Tenzopy<img src="https://raw.githubusercontent.com/tenzopy/.github/main/assets/logo/tenzopy_logo.png" width="40" />
-</h1>
+#
 
-<div align="center">
-    
-  <h2>Don't forget to follow !</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tenzopy/.github/main/assets/logo/tenzopy_logo_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tenzopy/.github/main/assets/logo/tenzopy_logo_white.png">
+    <img src="https://raw.githubusercontent.com/tenzopy/.github/main/assets/logo/tenzopy_logo_white.png" alt="Tenzopy Logo">
+  </picture>
+    <br><br>
+    <strong>Share Your Ideas! We'll Build them for you.</strong>
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/tenzopy)
-![GitHub Org's stars](https://img.shields.io/github/stars/tenzopy)
+<!-- markdownlint-enable MD033 -->
 
-  <p>We build Web Apps And Mobile Apps to Clients! Contact Us at <a href="mailto:hello@tenzopy.com">hello@tenzopy.com</a></p>
-</div>
+[Tenzopy](https://tenzopy.com) is a group of software developers working together to help you with your technical needs.
 
-## About Us 💪
+- **Web Development**
+- **Web Design**
+- **App Development**
+- **SEO Works**
+- **Tech Support**
 
-- 📁 Delivers Good Quality Codes.
-- 📚 Better Peer to Peer Working Environment.
+Reach Out to us at [hello@tenzopy.com](mailto:hello@tenzopy.com).
+
+-----

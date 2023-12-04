@@ -18,7 +18,7 @@
 - **Branding**
 - **Web Development**
 - **App Development**
-- **UI/UX Works**
+- **UI/UX Designs**
 - **Tech Support**
 
 Reach Out to us at [hello@tenzopy.com](mailto:hello@tenzopy.com).

@@ -14,10 +14,11 @@
 
 [Tenzopy](https://tenzopy.com) is a group of software developers working together to help you with your technical needs.
 
+- **Digital Marketing**
+- **Branding**
 - **Web Development**
-- **Web Design**
 - **App Development**
-- **SEO Works**
+- **UI/UX Works**
 - **Tech Support**
 
 Reach Out to us at [hello@tenzopy.com](mailto:hello@tenzopy.com).

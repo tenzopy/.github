@@ -21,6 +21,6 @@
 - **UI/UX Designs**
 - **Tech Support**
 
-Reach Out to us at [hello@tenzopy.com](mailto:hello@tenzopy.com).
+Reach Out to us at [mail@tenzopy.com](mailto:mail@tenzopy.com).
 
 -----
